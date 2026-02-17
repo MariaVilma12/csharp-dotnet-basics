@@ -1,0 +1,14 @@
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\bin\Debug\net10.0\ParallelArrays.exe
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\bin\Debug\net10.0\ParallelArrays.deps.json
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\bin\Debug\net10.0\ParallelArrays.runtimeconfig.json
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\bin\Debug\net10.0\ParallelArrays.dll
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\bin\Debug\net10.0\ParallelArrays.pdb
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\obj\Debug\net10.0\ParallelArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\obj\Debug\net10.0\ParallelArrays.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\obj\Debug\net10.0\ParallelArrays.AssemblyInfo.cs
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\obj\Debug\net10.0\ParallelArrays.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\obj\Debug\net10.0\ParallelArrays.dll
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\obj\Debug\net10.0\refint\ParallelArrays.dll
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\obj\Debug\net10.0\ParallelArrays.pdb
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\obj\Debug\net10.0\ParallelArrays.genruntimeconfig.cache
+C:\Users\maria\Downloads\C#\gitproject\OOP\ParallelArrays\obj\Debug\net10.0\ref\ParallelArrays.dll

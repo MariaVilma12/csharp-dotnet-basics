@@ -1,0 +1,14 @@
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\bin\Debug\net10.0\Sorting.exe
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\bin\Debug\net10.0\Sorting.deps.json
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\bin\Debug\net10.0\Sorting.runtimeconfig.json
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\bin\Debug\net10.0\Sorting.dll
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\bin\Debug\net10.0\Sorting.pdb
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\obj\Debug\net10.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\obj\Debug\net10.0\Sorting.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\obj\Debug\net10.0\Sorting.AssemblyInfo.cs
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\obj\Debug\net10.0\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\obj\Debug\net10.0\Sorting.dll
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\obj\Debug\net10.0\refint\Sorting.dll
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\obj\Debug\net10.0\Sorting.pdb
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\obj\Debug\net10.0\Sorting.genruntimeconfig.cache
+C:\Users\maria\Downloads\C#\gitproject\OOP\Sorting\obj\Debug\net10.0\ref\Sorting.dll

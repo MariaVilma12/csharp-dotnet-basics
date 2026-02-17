@@ -1,0 +1,14 @@
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\bin\Debug\net10.0\Abs.exe
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\bin\Debug\net10.0\Abs.deps.json
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\bin\Debug\net10.0\Abs.runtimeconfig.json
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\bin\Debug\net10.0\Abs.dll
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\bin\Debug\net10.0\Abs.pdb
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\obj\Debug\net10.0\Abs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\obj\Debug\net10.0\Abs.AssemblyInfoInputs.cache
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\obj\Debug\net10.0\Abs.AssemblyInfo.cs
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\obj\Debug\net10.0\Abs.csproj.CoreCompileInputs.cache
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\obj\Debug\net10.0\Abs.dll
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\obj\Debug\net10.0\refint\Abs.dll
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\obj\Debug\net10.0\Abs.pdb
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\obj\Debug\net10.0\Abs.genruntimeconfig.cache
+C:\Users\maria\Downloads\C#\gitproject\OOP\Abs\obj\Debug\net10.0\ref\Abs.dll
