@@ -14,4 +14,7 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 .idea
+/bin/
+inheritance/bin/
+inheritance/obj/
 
